@@ -15,6 +15,9 @@ export const metadata: Metadata = {
   title: "Thesuburbsdesign Solutions - B2B Lead Generation Agency",
   description:
     "Fuel your funnel with high-intent B2B leads. We deliver targeted, AI-validated prospects to drive your revenue.",
+  icons: {
+    icon: "/favicon.png",
+  },
   keywords: "b2b lead generation, targeted prospecting, sales acceleration, lead generation agency",
   authors: [{ name: "Thesuburbsdesign Solutions" }],
   openGraph: {
